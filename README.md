@@ -47,8 +47,8 @@ sed --help
 ### Referencias
 
 * [1] _Git_. Wikipedia. (https://es.wikipedia.org/wiki/Git)
-* [2] _Una breve historia de Git_. Git. (https://git-scm.com/book/es/v2/Inicio-\-\-Sobre-el-Control-de-Versiones-Una-breve-historia-de-Git)
-* [3] _Fundamentos de Git_. Git. (https://git-scm.com/book/es/v2/Inicio-\-\-Sobre-el-Control-de-Versiones-Fundamentos-de-Git)
+* [2] _Una breve historia de Git_. Git. (https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Una-breve-historia-de-Git)
+* [3] _Fundamentos de Git_. Git. (https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Fundamentos-de-Git)
 * [4] _Perforce_. Wikipedia. (https://en.wikipedia.org/wiki/Perforce)
 * [5] _Subversion (software)_. Wikipedia. (https://es.wikipedia.org/wiki/Subversion_(software))
 * [6] _GNU sed_. GNU. Free Software Foundation. (https://www.gnu.org/software/sed/)
