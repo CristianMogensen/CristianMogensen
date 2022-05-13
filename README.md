@@ -53,3 +53,4 @@ sed --help
 * [5] _Subversion (software)_. Wikipedia. (https://es.wikipedia.org/wiki/Subversion_(software))
 * [6] _GNU sed_. GNU. Free Software Foundation. (https://www.gnu.org/software/sed/)
 * [7] _Grep_. GNU. Free Software Foundation. (https://www.gnu.org/software/sed/)
+![Badge](https://bit.ly/icom-badge)
